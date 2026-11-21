@@ -4,6 +4,10 @@ __pycache__/
 data/
 coach_gt/
 submissions/
-out/
-*.zip
 .env
+# ảnh gốc BDD100K / WoodScape: không đưa lên repo (giấy phép dữ liệu)
+day11-data/
+# bài của bạn khác dùng để chấm chéo
+out/nop-bai/nguyenhoainam-*
+# bản sao lưu nội bộ
+out/cvat_backup_before_edit.json
